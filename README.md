@@ -31,6 +31,8 @@ https://create-react-app.dev/docs/getting-started/
 ```
 react-native
 ```
+https://expo.io/learn
+
 https://snack.expo.io/
 ```
 vue
