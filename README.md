@@ -6,8 +6,15 @@ board: 2020 https://trello.com/b/N3fzPLF2
 
 ```
 react
+```
+https://create-react-app.dev/docs/getting-started/
 
+
+```
 vue
+```
+https://cli.vuejs.org/guide/creating-a-project.html
+```
 
 express
 
