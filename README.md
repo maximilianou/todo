@@ -1,6 +1,25 @@
 # TODO
 
+-----
 ## articles
+
+Develop an articles application.
+
+In react
+
+Using express
+
+A db
+
+docker-compose
+
+TDD
+
+ci.
+
+react-native.
+
+-----
 
 board: 2020 https://trello.com/b/N3fzPLF2
 
@@ -43,3 +62,5 @@ react native
 
 vue native
 ```
+-----
+
