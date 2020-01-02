@@ -4,19 +4,12 @@
 ## articles
 
 Develop an articles application.
-
-In react
-
-Using express
-
-A db
-
-docker-compose
-
-TDD
-
+In react.
+Using express.
+DB.
+docker-compose.
+TDD.
 ci.
-
 react-native.
 
 -----
