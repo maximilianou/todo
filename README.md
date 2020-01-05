@@ -33,40 +33,39 @@ https://snack.expo.io/
 vue
 ```
 https://cli.vuejs.org/guide/creating-a-project.html
-```
+
+
+### socket.io
 
 express
 
-TDD
+### TDD
 
-ci
+### ci
 
-postgres
+### postgres
 
-mongo
+### mongo
 
-redis
+### redis
 
 redux
 
 vuex
 
-sagas
-```
+### sagas
+
+
 https://dev.to/zhenpanda/react-redux-sagas-starter-guide-2h6e
-```
-react native
 
-vue native
-```
 
-```
-docker
 
-kubernetes
+### docker
 
-aws
-```
+### kubernetes
+
+### aws
+
 
 -----
 
