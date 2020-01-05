@@ -16,14 +16,16 @@ react-native.
 
 board: 2020 https://trello.com/b/N3fzPLF2
 
-```
-react
-```
+
+### react
+
+
+
 https://create-react-app.dev/docs/getting-started/
 
-```
-react-native
-```
+
+### react-native
+
 https://expo.io/learn
 
 https://snack.expo.io/
@@ -57,5 +59,14 @@ react native
 
 vue native
 ```
+
+```
+docker
+
+kubernetes
+
+aws
+```
+
 -----
 
