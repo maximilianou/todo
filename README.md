@@ -24,6 +24,8 @@ https://gitlab.com/maximilianou/doc24_compose
 docker run -it -u node node /bin/bash
 ```
 
+https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
+
 -----
 -----
 -----
