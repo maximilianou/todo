@@ -18,12 +18,14 @@ board: 2020 https://trello.com/b/N3fzPLF2
 
 ### docker-compose front, back, reg
 
+1.
 https://gitlab.com/maximilianou/doc24_compose
 
+2.
 ```
 docker run -it -u node node /bin/bash
 ```
-
+3.
 https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
 
 -----
