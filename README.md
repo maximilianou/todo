@@ -25,8 +25,15 @@ https://gitlab.com/maximilianou/doc24_compose
 ```
 docker run -it -u node node /bin/bash
 ```
-3.
+
+3. 
+~/src/doc21_react_hooks$ docker-compose -f docker-compose-v1.yml up
+
+
+4.
 https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
+
+
 
 -----
 -----
