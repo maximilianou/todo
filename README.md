@@ -33,6 +33,8 @@ docker run -it -u node node /bin/bash
 4.
 https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
 
+5. nodejs, docker-compose.yml only development
+
 
 
 -----
