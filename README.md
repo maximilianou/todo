@@ -3,20 +3,11 @@
 -----
 ## articles
 
-Develop an articles application.
-In react.
-Using express.
-DB.
-docker-compose.
-TDD.
-ci.
-react-native.
+Develop an articles application. docker-compose. In react. Using express. DB.  TDD. ci. react-native.
 
 -----
 
-board: 2020 https://trello.com/b/N3fzPLF2
-
-### docker-compose front, back, reg
+### docker-compose 
 
 1.
 https://gitlab.com/maximilianou/doc24_compose
@@ -35,6 +26,17 @@ https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
 
 5. nodejs, docker-compose.yml only development
 
+
+
+-----
+-----
+-----
+-----
+
+REFERENCE: 
+
+
+board: 2020 https://trello.com/b/N3fzPLF2
 
 
 -----
