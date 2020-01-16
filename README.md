@@ -26,7 +26,37 @@ https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
 
 5. nodejs, docker-compose.yml only development
 
+```
+version: '3.7'
+services:
+  views: 
+    image: node:alpine
+    volumes:
+     - ./views/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 1234:3000
+  notes: 
+    image: node:alpine
+    volumes:
+       - ./notes/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 1222:3000
+  users: 
+    image: node:alpine
+    volumes:
+      - ./users/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 1333:3000      
+networks:
+  net_intranet: 
 
+```
 
 -----
 -----
