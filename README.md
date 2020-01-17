@@ -57,6 +57,92 @@ networks:
   net_intranet: 
 
 ```
+-----
+
+### Realtime development, docker-compose
+
+docker-compose.yml
+```
+version: '3.7'
+services:
+  views: 
+    image: node:alpine
+    volumes:
+     - ./views/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 1234:3000
+    environment:
+      - NODE_ENV=development
+    networks:
+      - net_intranet
+
+  notes: 
+    image: node:alpine
+    volumes:
+       - ./notes/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 1222:3000
+    environment:
+      - NODE_ENV=development
+    networks:
+      - net_intranet
+
+  users: 
+    image: node:alpine
+    volumes:
+      - ./users/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 1333:3000      
+    environment:
+      - NODE_ENV=development
+    networks:
+      - net_intranet
+  
+networks:
+  net_intranet: 
+
+```
+
+package.json
+```
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
+
+```
+
+index.js
+```
+const express = require('express')
+const app = express()
+
+app.get('/', function (req, res) {
+  res.send(`Hello Notes! <br/>[${ (new Date).toISOString()}]`)
+})
+
+app.listen(3000)
+```
+-----
 
 6. User Login. auth, passport
 7. db postgres, 
