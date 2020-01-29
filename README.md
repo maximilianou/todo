@@ -147,6 +147,68 @@ app.listen(3000)
 
 https://hub.docker.com/_/postgres
 
+usr:pass postgres:example
+
+
+```
+version: '3.7'
+services:
+  views: 
+    image: node:alpine
+    volumes:
+     - ./views/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 2020:3000
+    environment:
+      - NODE_ENV=development
+    networks:
+      - net_intranet
+
+  notes: 
+    image: node:alpine
+    volumes:
+       - ./notes/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 2022:3000
+    environment:
+      - NODE_ENV=development
+    networks:
+      - net_intranet
+
+  users: 
+    image: node:alpine
+    volumes:
+      - ./users/.:/srv
+    working_dir: /srv
+    command: npm run start
+    ports: 
+      - 2024:3000      
+    environment:
+      - NODE_ENV=development
+    networks:
+      - net_intranet
+
+  db:
+    image: postgres:alpine
+    environment:
+      POSTGRES_PASSWORD: example
+    networks:
+      - net_intranet
+        
+  adminer:
+    image: adminer
+    ports:
+      - 2026:8080
+    networks:
+      - net_intranet
+    
+networks:
+  net_intranet: {}
+```
 
 6. User Login. auth, passport
 7. db postgres, 
