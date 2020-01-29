@@ -144,6 +144,10 @@ app.listen(3000)
 ```
 -----
 
+
+https://hub.docker.com/_/postgres
+
+
 6. User Login. auth, passport
 7. db postgres, 
 8. db mongo
