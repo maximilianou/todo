@@ -255,6 +255,10 @@ https://cli.vuejs.org/guide/creating-a-project.html
 
 express
 
+### BDD
+
+https://dev.to/imsergiobernal/bdd-automated-testing-con-gherkin-y-jest-en-node-js-3hjg
+
 ### TDD
 
 ### ci
