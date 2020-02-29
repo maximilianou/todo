@@ -4,6 +4,8 @@
 
 https://www.swyx.io/writing/learn-in-public/
 
+Document what you did and the problems you solved.
+
 -----
 ### Articles
 
