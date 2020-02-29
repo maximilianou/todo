@@ -1,9 +1,17 @@
 # TODO
 
------
-## articles
+## Learn in Public
 
-Develop an articles application. docker-compose. In react. Using express. DB.  TDD. ci. react-native.
+https://www.swyx.io/writing/learn-in-public/
+
+-----
+### Articles
+
+Develop an articles and application. 
+
+docker-compose. In react. 
+Using express. DB.  TDD. ci. 
+react-native.
 
 -----
 
