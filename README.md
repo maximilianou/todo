@@ -7,7 +7,7 @@ https://www.swyx.io/writing/learn-in-public/
 -----
 ### Articles
 
-Develop an articles and apps. 
+Develop articles and apps. 
 
  + linux
  + docker
