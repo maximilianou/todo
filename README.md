@@ -7,11 +7,19 @@ https://www.swyx.io/writing/learn-in-public/
 -----
 ### Articles
 
-Develop an articles and application. 
+Develop an articles and apps. 
 
-docker-compose. In react. 
-Using express. DB.  TDD. ci. 
-react-native.
+. linux
+. docker
+. docker-compose
+. linux
+. react
+
+. express. 
+. DB.  
+. TDD. 
+. ci
+. react-native.
 
 -----
 
