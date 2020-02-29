@@ -9,17 +9,25 @@ https://www.swyx.io/writing/learn-in-public/
 
 Develop an articles and apps. 
 
-. linux
-. docker
-. docker-compose
-. linux
-. react
-
-. express. 
-. DB.  
-. TDD. 
-. ci
-. react-native.
+ + linux
+ + docker
+ + docker-compose
+ + linux
+ + react
+ + react redux
+ + react redux saga
+ + express
+ + DB
+ + Postgres
+ + mongo
+ + BDD
+ + jest + cucumber
+ + TDD
+ + jest
+ + ci continuous integration
+ + react-native.
+ + cd continuous deployment
+ + continuous delivery
 
 -----
 
