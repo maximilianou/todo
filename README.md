@@ -9,10 +9,10 @@ https://www.swyx.io/writing/learn-in-public/
 
 Develop articles and apps. 
 
- + linux
+ + linux development environment
  + docker
  + docker-compose
- + linux
+ + linux server
  + react
  + react redux
  + react redux saga
