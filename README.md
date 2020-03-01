@@ -40,7 +40,9 @@ Develop articles and apps.
  3. Baby Steps you can show or demostrate to someone, 
  in mind.
  4. Weekly Project, ( from Sam, self commitment )
- 5. Minimal Side Projects, ( my real life online needs, to have better jobs )
+ 5. Minimal Side Projects, ( my real life online needs )
+ 6. Everything is draft, any draft have some valueble increment.
+
 
 -----
 
