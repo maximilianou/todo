@@ -37,7 +37,8 @@ Develop articles and apps.
 
  1. Divide and conquer
  2. This planning list
- 3. Baby Steps you can show or demostrate, in mind.
+ 3. Baby Steps you can show or demostrate to someone, 
+ in mind.
  4. Weekly Project, ( from Sam, self commitment )
  5. Minimal Side Projects, ( my real life online needs, to have better jobs )
 
