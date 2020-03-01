@@ -46,6 +46,14 @@ Develop articles and apps.
 
 -----
 
+###### linux development environment
+  
+  in a pendrive ( old draft )
+
+https://maximilianou.blogspot.com/2017/08/install-debian-9-pendrive-java-web-sql.html?m=1
+
+-----
+
 ### docker-compose 
 
 1.
