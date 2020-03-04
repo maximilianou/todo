@@ -286,6 +286,11 @@ board: 2020 https://trello.com/b/N3fzPLF2
 
 https://create-react-app.dev/docs/getting-started/
 
+https://github.com/STRML/react-grid-layout
+
+https://strml.github.io/react-grid-layout/examples/1-basic.html
+
+
 
 ### react-native
 
