@@ -286,6 +286,33 @@ board: 2020 https://trello.com/b/N3fzPLF2
 
 https://create-react-app.dev/docs/getting-started/
 
+https://reactjs.org/docs/hooks-custom.html
+
+```
+function useReducer(reducer, initialState) {
+  const [state, setState] = useState(initialState);
+  function dispatch(action) {
+    const nextState = reducer(state, action);
+    setState(nextState);
+  }
+  return [state, dispatch];
+}
+
+```
+
+```
+function Todos() {
+  const [todos, dispatch] = useReducer(todosReducer, []);
+
+  function handleAddClick(text) {
+    dispatch({ type: 'add', text });
+  }
+
+  // ...
+}
+```
+
+
 https://github.com/STRML/react-grid-layout
 
 https://strml.github.io/react-grid-layout/examples/1-basic.html
