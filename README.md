@@ -289,6 +289,21 @@ https://create-react-app.dev/docs/getting-started/
 https://reactjs.org/docs/hooks-custom.html
 
 ```
+function todosReducer(state, action) {
+  switch (action.type) {
+    case 'add':
+      return [...state, {
+        text: action.text,
+        completed: false
+      }];
+    // ... other actions ...
+    default:
+      return state;
+  }
+}
+```
+
+```
 function useReducer(reducer, initialState) {
   const [state, setState] = useState(initialState);
   function dispatch(action) {
@@ -303,11 +318,9 @@ function useReducer(reducer, initialState) {
 ```
 function Todos() {
   const [todos, dispatch] = useReducer(todosReducer, []);
-
   function handleAddClick(text) {
     dispatch({ type: 'add', text });
   }
-
   // ...
 }
 ```
