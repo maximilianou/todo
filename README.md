@@ -57,6 +57,7 @@ https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-applicat
 
 
 
+------
 ## Learn in Public
 
 https://www.swyx.io/writing/learn-in-public/
@@ -64,6 +65,8 @@ https://www.swyx.io/writing/learn-in-public/
 Document what you did and the problems you solved.
 
 https://dev.to/swyx/using-dev-to-as-a-cms-3472/
+
+------
 
 https://gitlab.com/maximilianou/weekly01
 
