@@ -6,15 +6,17 @@ https://dev.to/django_stars/best-practices-in-mobile-app-design-in-2020-khn
 
 https://blog.logrocket.com/testing-with-jest-from-zero-to-hero-85ce0e9cc953/
 
+https://patrickheneise.com/2018/01/makefile-for-node-js-developers/
+
+https://medium.com/faun/set-up-a-ci-cd-pipeline-with-kubernetes-minikube-de2bacf7caab
+
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node.html
 
 https://aws.amazon.com/es/getting-started/projects/deploy-nodejs-web-app/
 
 https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker-quickstart?utm_source=digitalocean_newsletter
 
-https://medium.com/faun/set-up-a-ci-cd-pipeline-with-kubernetes-minikube-de2bacf7caab
 
-https://patrickheneise.com/2018/01/makefile-for-node-js-developers/
 
 
 
