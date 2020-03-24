@@ -1,5 +1,7 @@
 # TODO 2020
 
+###### ( everything is a draft )
+
 ### Development
 
 1. https://www.freecodecamp.org/news/fullstack-react-blog-app-with-express-and-psql/ 
