@@ -12,6 +12,10 @@ https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-applicat
 
 https://medium.com/faun/set-up-a-ci-cd-pipeline-with-kubernetes-minikube-de2bacf7caab
 
+https://patrickheneise.com/2018/01/makefile-for-node-js-developers/
+
+
+
 ## Learn in Public
 
 https://www.swyx.io/writing/learn-in-public/
