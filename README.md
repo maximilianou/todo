@@ -4,6 +4,8 @@ https://dev.to/koralarts/react-simple-auth-flow-3fbf
 
 https://dev.to/django_stars/best-practices-in-mobile-app-design-in-2020-khn
 
+https://blog.logrocket.com/testing-with-jest-from-zero-to-hero-85ce0e9cc953/
+
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node.html
 
 https://aws.amazon.com/es/getting-started/projects/deploy-nodejs-web-app/
