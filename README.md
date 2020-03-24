@@ -10,6 +10,8 @@ https://aws.amazon.com/es/getting-started/projects/deploy-nodejs-web-app/
 
 https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker-quickstart?utm_source=digitalocean_newsletter
 
+https://medium.com/faun/set-up-a-ci-cd-pipeline-with-kubernetes-minikube-de2bacf7caab
+
 ## Learn in Public
 
 https://www.swyx.io/writing/learn-in-public/
