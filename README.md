@@ -1,5 +1,7 @@
 # TODO 2020
 
+### Development
+
 1. https://www.freecodecamp.org/news/fullstack-react-blog-app-with-express-and-psql/ 
 
 2. https://www.taniarascia.com/node-express-postgresql-heroku/ 
@@ -12,11 +14,15 @@
 
 ------
 
+### DevOps
+
 30. https://itnext.io/docker-makefile-x-ops-sharing-infra-as-code-parts-ea6fa0d22946
 
 31. https://tech.trivago.com/2019/12/20/makefiles-in-2019-why-they-still-matter/
 
 ------
+
+### Team Work ( team player )
 
 100. https://www.atlassian.com/team-playbook/plays/rules-of-engagement
 
