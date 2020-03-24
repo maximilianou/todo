@@ -4,6 +4,8 @@ https://dev.to/koralarts/react-simple-auth-flow-3fbf
 
 https://dev.to/django_stars/best-practices-in-mobile-app-design-in-2020-khn
 
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node.html
+
 ## Learn in Public
 
 https://www.swyx.io/writing/learn-in-public/
