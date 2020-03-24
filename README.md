@@ -1,5 +1,9 @@
 # TODO 2020
 
+https://www.taniarascia.com/node-express-postgresql-heroku/
+
+https://itnext.io/building-restful-api-with-node-js-express-js-and-postgresql-the-right-way-b2e718ad1c66
+
 https://techblog.commercetools.com/five-practical-tips-when-using-react-hooks-in-production-990a79745229# 
 
 https://dev.to/koralarts/react-simple-auth-flow-3fbf
@@ -27,6 +31,8 @@ https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-applicat
 https://www.swyx.io/writing/learn-in-public/
 
 Document what you did and the problems you solved.
+
+https://dev.to/swyx/using-dev-to-as-a-cms-3472/
 
 -----
 ### Articles
