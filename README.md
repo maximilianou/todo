@@ -1,6 +1,15 @@
 # TODO 2020
 
-https://www.taniarascia.com/node-express-postgresql-heroku/
+1. https://www.freecodecamp.org/news/fullstack-react-blog-app-with-express-and-psql/ 
+
+2. https://www.taniarascia.com/node-express-postgresql-heroku/ 
+
+3. https://www.taniarascia.com/redux-react-guide/ 
+
+4. https://dev.to/imsergiobernal/bdd-automated-testing-con-gherkin-y-jest-en-node-js-3hjg
+
+5. https://dev.to/zhenpanda/react-redux-sagas-starter-guide-2h6e
+
 
 https://itnext.io/building-restful-api-with-node-js-express-js-and-postgresql-the-right-way-b2e718ad1c66
 
