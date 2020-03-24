@@ -70,15 +70,15 @@ https://dev.to/swyx/using-dev-to-as-a-cms-3472/
 
 ------
 
-https://gitlab.com/maximilianou/weekly01
+* https://gitlab.com/maximilianou/weekly01
 
-https://gitlab.com/maximilianou/weekly02
+* https://gitlab.com/maximilianou/weekly02
 
-https://gitlab.com/maximilianou/weekly03
+* https://gitlab.com/maximilianou/weekly03
 
-https://gitlab.com/maximilianou/weekly04
+* https://gitlab.com/maximilianou/weekly04
 
-https://gitlab.com/maximilianou/weekly05
+* https://gitlab.com/maximilianou/weekly05
 
 -----
 ### Articles
