@@ -6,6 +6,9 @@ https://dev.to/django_stars/best-practices-in-mobile-app-design-in-2020-khn
 
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node.html
 
+https://aws.amazon.com/es/getting-started/projects/deploy-nodejs-web-app/
+
+
 ## Learn in Public
 
 https://www.swyx.io/writing/learn-in-public/
