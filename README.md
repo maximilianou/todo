@@ -1,5 +1,9 @@
 https://techblog.commercetools.com/five-practical-tips-when-using-react-hooks-in-production-990a79745229# TODO 2020
 
+https://dev.to/koralarts/react-simple-auth-flow-3fbf
+
+https://dev.to/django_stars/best-practices-in-mobile-app-design-in-2020-khn
+
 ## Learn in Public
 
 https://www.swyx.io/writing/learn-in-public/
