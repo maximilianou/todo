@@ -81,9 +81,9 @@ https://dev.to/swyx/using-dev-to-as-a-cms-3472/
 * https://gitlab.com/maximilianou/weekly05
 
 -----
-### Articles
+### Side Project
 
-Develop articles and apps. 
+Develop samples and apps. 
 
  + linux development environment
  + Makefile
