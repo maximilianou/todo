@@ -34,6 +34,7 @@ Document what you did and the problems you solved.
 Develop articles and apps. 
 
  + linux development environment
+ + Makefile
  + docker
  + docker-compose
  + linux server
@@ -73,6 +74,41 @@ Develop articles and apps.
   in a pendrive ( old draft )
 
 https://maximilianou.blogspot.com/2017/08/install-debian-9-pendrive-java-web-sql.html?m=1
+
+-----
+
+### Makefile
+
+```
+APP=side
+
+all:
+	echo "TODO: all"
+
+create:
+	docker volume create nodemodules
+	express $(APP)_api; cd $(APP)_api; npm i; cd ..;
+	npx create-react-app $(APP)_front
+
+start:
+	docker-compose up -d
+
+stop:
+	docker-compose stop	
+
+list:
+	docker-compose ps
+
+clean:
+	docker-compose down	
+	rm -rf $(APP)_front
+	rm -rf $(APP)_api
+
+```
+REFERENCE: 
+
+https://gitlab.com/maximilianou/make01
+
 
 -----
 
