@@ -10,6 +10,17 @@
 
 5. https://dev.to/zhenpanda/react-redux-sagas-starter-guide-2h6e
 
+30. https://itnext.io/docker-makefile-x-ops-sharing-infra-as-code-parts-ea6fa0d22946
+
+31. https://tech.trivago.com/2019/12/20/makefiles-in-2019-why-they-still-matter/
+
+100. https://www.atlassian.com/team-playbook/plays/rules-of-engagement
+
+101. https://twist.com/remote-work-guides
+
+102. https://doist.com/blog/lessons-remote-companies/
+
+
 
 https://itnext.io/building-restful-api-with-node-js-express-js-and-postgresql-the-right-way-b2e718ad1c66
 
