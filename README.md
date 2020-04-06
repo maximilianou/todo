@@ -72,9 +72,9 @@ https://dev.to/swyx/using-dev-to-as-a-cms-3472/
 
 ------
 
-* https://gitlab.com/maximilianou/weekly01
+* https://gitlab.com/maximilianou/weekly01 (ecommerce)
 
-* https://gitlab.com/maximilianou/weekly02
+* https://gitlab.com/maximilianou/weekly02 ( calendar )
 
 * https://gitlab.com/maximilianou/weekly03
 
