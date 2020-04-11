@@ -24,6 +24,7 @@
 
 31. https://tech.trivago.com/2019/12/20/makefiles-in-2019-why-they-still-matter/
 
+32. https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd
 ------
 
 ### Team Work ( team player )
