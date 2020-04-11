@@ -489,6 +489,19 @@ https://dev.to/zhenpanda/react-redux-sagas-starter-guide-2h6e
 
 ### kubernetes
 
+```
+k8s
+
+curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+mv kubectl /usr/local/bin
+chmod +x /usr/local/bin/kubectl
+kubectl version --client
+
+curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64   && chmod +x minikube
+mv minikube /usr/local/bin
+
+```
+
 ### aws
 
 
