@@ -80,7 +80,7 @@ https://dev.to/swyx/using-dev-to-as-a-cms-3472/
 
 * https://gitlab.com/maximilianou/weekly04 ( social network )
 
-* https://gitlab.com/maximilianou/weekly05 (  )
+* https://gitlab.com/maximilianou/weekly05 ( meet ups )
 
 -----
 ### Side Project
