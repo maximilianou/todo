@@ -502,6 +502,13 @@ mv minikube /usr/local/bin
 
 ```
 
+```
+minikube status
+minikube start
+minikube stop
+minikube delete
+
+```
 ### aws
 
 
