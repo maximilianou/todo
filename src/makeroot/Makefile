@@ -12,6 +12,7 @@ apt.list:
 tools:
 	apt remove xscreensaver
 	apt install git mercurial medit chromium
+	git config --global core.editor vi
 
 node:
 	echo 'fs.inotify.max_user_watches=524288' >> /etc/sysctl.d/local.conf
