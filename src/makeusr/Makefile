@@ -1,6 +1,9 @@
 
 src: 
 	mkdir src
+	git config --global user.name "Maximiliano Usich"
+	git config --global user.email maximilianou@gmail.com
+	git config --global core.editor vi
 	git clone http://gitlab.com/maximilianou/todo
 	git clone http://gitlab.com/maximilianou/weekly01
 	git clone http://gitlab.com/maximilianou/weekly02
