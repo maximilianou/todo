@@ -42,6 +42,8 @@
 
 1000. https://andybrewer.github.io/mvp/
 
+1001. https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl
+
 ------
 
 https://itnext.io/building-restful-api-with-node-js-express-js-and-postgresql-the-right-way-b2e718ad1c66
