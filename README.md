@@ -11,10 +11,12 @@
 3. https://www.taniarascia.com/redux-react-guide/ 
 
 4. https://dev.to/dinhhuyams/introduction-to-useref-hook-3m7n
- 
-5. https://dev.to/imsergiobernal/bdd-automated-testing-con-gherkin-y-jest-en-node-js-3hjg
 
-6. https://dev.to/zhenpanda/react-redux-sagas-starter-guide-2h6e
+5. https://daveceddia.com/useeffect-hook-examples/
+
+6. https://dev.to/imsergiobernal/bdd-automated-testing-con-gherkin-y-jest-en-node-js-3hjg
+
+7. https://dev.to/zhenpanda/react-redux-sagas-starter-guide-2h6e
 
 ------
 
@@ -52,7 +54,26 @@
 
 1001. https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl
 
+
+#### git
+
+2000. https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh
+
+#### Functional Programming
+
+3000. https://dev.to/mr_b/an-adequate-introduction-to-functional-programming-1gcl
+
+#### OAuth
+
+4000. http://thecodebarbarian.com/oauth-with-node-js-and-express.html
+
 ------
+
+https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi
+
+https://jdlm.info/articles/2019/09/06/lessons-building-node-app-docker.html
+
+https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf
 
 https://itnext.io/building-restful-api-with-node-js-express-js-and-postgresql-the-right-way-b2e718ad1c66
 
