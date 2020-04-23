@@ -38,6 +38,14 @@
 
 102. https://doist.com/blog/lessons-remote-companies/
 
+#### Meeting
+
+190. https://hangouts.google.com/
+
+191. https://meet.jit.si/
+
+192. https://zoom.us/
+
 ### CSS
 
 1000. https://andybrewer.github.io/mvp/
